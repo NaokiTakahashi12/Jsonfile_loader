@@ -1,0 +1,12 @@
+{
+	"sample" : {
+		"value" : 123,
+		"vector" : [1, 2, 3],
+
+		"tree" : [
+			{"value" : 321, "vector" : [3, 2, 1]},
+			{"value" : 321, "vector" : [3, 2, 1]},
+			{"value" : 321, "vector" : [3, 2, 1]}
+		]
+	}
+}
